@@ -1,3 +1,3 @@
-function ypr = ImuFusion(gyro,acc,mag)
-    ypr=0;
+function q = ImuFusion(q0,gyro,acc,mag,T)
+    q=0;
 end
