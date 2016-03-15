@@ -1,0 +1,7 @@
+clear;
+clc;
+close all;
+
+rawdata=load('biaoding.txt');
+[deltaT,ax,ay,az,wx,wy,wz,mx,my,mz]
+ImuFusion(1,1,1)
